@@ -9,7 +9,7 @@ function App() {
 
   {/* Random color generator */}
 
-  <RandomColor />
+  {/* <RandomColor /> */}
   </>
 }
 
