@@ -5,3 +5,8 @@
 .inactive {
     color: black;
 }
+
+.star-rating {
+    display: flex;
+    justify-content: center;
+}
